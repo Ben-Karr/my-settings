@@ -1,0 +1,13 @@
+eamodio.gitlens
+golang.go
+Karsten7.mojo-vscode
+ms-python.python
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
+quarto.quarto
+redhat.vscode-yaml
+torn4dom4n.latex-support
+vscode-icons-team.vscode-icons

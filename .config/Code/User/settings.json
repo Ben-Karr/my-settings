@@ -1,0 +1,17 @@
+{
+    "quarto.mathjax.theme": "dark",
+    "workbench.enableExperiments": false,
+    "update.showReleaseNotes": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.autoComplete.extraPaths": [
+        
+    ],
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.wordWrap": "on",
+    "redhat.telemetry.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "editor.fontFamily": "'FiraCode Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace"
+}
