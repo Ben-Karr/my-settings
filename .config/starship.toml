@@ -1,6 +1,5 @@
 format = """
-[](#9A348E)\
-[](bg:#DA627D fg:#9A348E)\
+[](#DA627D)\
 $directory\
 [](fg:#DA627D bg:#FCA17D)\
 $git_branch\
@@ -153,9 +152,9 @@ format = '[ $symbol ($version) ]($style)'
 disabled = false
 time_format = "%R" # Hour:Minute Format
 style = "bg:#33658A"
-format = '[  $time ]($style)'
+format = '[  $time ]($style)'
 
 [python]
 symbol = "🐍 "
 style = "bg:#86BBD8 fg:black"
-format = '[ $symbol ($version) ]($style)'
+format = '[ $symbol($version) ]($style)'
